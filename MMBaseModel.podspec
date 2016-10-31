@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BaseModel"
+  s.name         = "MMBaseModel"
   s.version      = "1.0.0"
-  s.summary      = "BaseModel usage."
+  s.summary      = "MMBaseModel usage."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   use to simplify the use of model
                    DESC
 
-  s.homepage     = "https://github.com/ioszhanghui/BaseModel"
+  s.homepage     = "https://github.com/ioszhanghui/MMBaseModel"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ioszhanghui/BaseModel.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/ioszhanghui/MMBaseModel.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
